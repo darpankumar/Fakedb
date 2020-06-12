@@ -1,17 +1,16 @@
 {
-  "taskDetail": [
-    {
-      "id": 1,
-      "title": "hello",
-      "deleteStatus": "001"
-    },
-    {
-      "id": 2,
-      "title": "hello",
-      "deleteStatus": "002"
-    }
+  "status": [
+    { "code": 1, "value": "new" },
+    { "code": 2, "value": "in progress" },
+    { "code": 3, "value": "end" }
   ],
-  "profile": {
-    "name": "darpankumar"
+  "priority": [
+    { "code": 1, "value": "low"},
+    { "code": 2, "value": "medium"},
+    { "code": 3, "value": "high"},
+  ],
+  "data": {
+    "status": "1",
+    "priority" : "2"
   }
 }
