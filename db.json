@@ -10,7 +10,7 @@
     {  "3": "high"}
   ],
   "data": {
-    "status": "1",
-    "priority": "2"
+    "statusCode": "1",
+    "priorityCode": "2"
   }
 }
