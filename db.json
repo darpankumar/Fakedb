@@ -7,7 +7,7 @@
   "priority": [
     { "code": 1, "value": "low"},
     { "code": 2, "value": "medium"},
-    { "code": 3, "value": "high"},
+    { "code": 3, "value": "high"}
   ],
   "data": {
     "status": "1",
